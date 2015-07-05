@@ -1,0 +1,4 @@
+[04-Jul-2015 18:01:08 America/Chicago] PHP Notice:  Undefined variable: smarty in /home/leaf/public_html/include/smarty_functions.php on line 8
+[04-Jul-2015 18:01:08 America/Chicago] PHP Fatal error:  Call to a member function register_modifier() on a non-object in /home/leaf/public_html/include/smarty_functions.php on line 8
+[04-Jul-2015 18:01:10 America/Chicago] PHP Notice:  Undefined variable: smarty in /home/leaf/public_html/include/smarty_functions.php on line 8
+[04-Jul-2015 18:01:10 America/Chicago] PHP Fatal error:  Call to a member function register_modifier() on a non-object in /home/leaf/public_html/include/smarty_functions.php on line 8

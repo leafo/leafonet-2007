@@ -1,0 +1,95 @@
+body {
+	font: 11pt Corbel, Sans-serif;
+	background: #333333 url('images/logo_back.gif') top left repeat-x;
+	margin: 0px;
+	padding: 0px;
+}
+
+#wrapper {
+	background: #ffffff url('images/shadow.gif') bottom left repeat-x;
+	padding: 0px 12px 200px 12px;
+}
+
+h1 {
+	height: 74px;
+	margin: 0px;
+}
+
+a:link, a:visited {
+	color: #0066CC;
+}
+
+h1 a {
+	background: url('images/logo.gif') top left no-repeat;
+	width: 201px;
+	height: 74px;
+	display: block;
+	text-indent: -5000px;
+	overflow: hidden;
+}
+
+form, fieldset {
+	margin: 0px;
+}
+
+hr {
+	border: 0;
+	height: 1px;
+	background-color: #808080;
+}
+
+label {
+	display: block;
+}
+p {
+	padding: 4px;
+	margin: 0px;
+}
+
+table {
+	padding: 0px;
+	margin: 0px;
+}
+
+.forum {
+	border: 1px solid #808080;
+	margin-bottom: 6px;
+	padding: 2px;
+}
+
+.forum-header {
+	background-color: #EFEFEF;
+	padding: 4px;
+	margin-bottom: 4px;
+}
+
+.path {
+	padding: 0px 4px 4px 0px;
+}
+
+.captcha {
+	border: 1px solid #808080;
+}
+
+.error {
+	background: rgb(255,210,210);
+	padding: 4px;
+	margin-bottom: 4px;
+}
+
+textarea {
+	display: block;
+	width: 99%;
+	height: 200px;
+}
+
+fieldset {
+	border: 1px solid #808080;
+	margin-bottom: 6px;
+	padding: 4px 8px 4px 8px;
+}
+
+ul {
+	margin: 0px 0px 4px 0px;
+	padding: 0px 0px 0px 30px;;
+}
